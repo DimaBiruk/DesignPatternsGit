@@ -1,0 +1,2 @@
+C:\Users\Dima\source\repos\DesignPatterns\StrategyPattern\Debug\StrategyPattern.exe
+C:\Users\Dima\source\repos\DesignPatterns\StrategyPattern\Debug\StrategyPattern.pdb
